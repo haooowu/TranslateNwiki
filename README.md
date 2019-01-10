@@ -1,6 +1,3 @@
-# TranslateNwiki
-Online translator(Yandex) with related wiki article
-
 API Docs
 
 Yandex: https://tech.yandex.com/translate/
